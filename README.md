@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Khushboo Mishra
 
 ### 💻 About Me
-I am a **final-year IT student** with a passion for **web development, full-stack development, and database management**. I love building projects that solve real-world problems and continuously learning new technologies.
+I am a **first-year MTECH student** with a passion for **web development, full-stack development, and database management**. I love building projects that solve real-world problems and continuously learning new technologies.
 
 - 📍 Location: Mumbai, India
 - 🎓 Education: B.E. Information Technology
 - 💡 Interested in: **React, Node.js, ASP.NET, SQL, Blockchain**
-- 🛠️ Tech Stack: **HTML, CSS, JavaScript, Node.js, Express, MySQL, MongoDB, ASP.NET, Angular**
+- 🛠️ Tech Stack: **HTML, CSS, JavaScript, Node.js, Express, MySQL, MongoDB, ASP.NET**
 - 🌱 Currently learning: **Advanced React, Full-Stack Development, Cloud Deployment**
 
 ---
