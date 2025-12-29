@@ -64,11 +64,8 @@ I am a **first-year M.Tech student in Software Engineering** with a strong inter
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishra-khushboo&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mishra-khushboo&show_icons=true&theme=dark)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mishra-khushboo&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishra-khushboo&layout=compact&theme=dark&hide_border=false)
 
 
 ---
