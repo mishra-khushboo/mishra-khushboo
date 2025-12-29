@@ -33,7 +33,6 @@ I enjoy building **structured, scalable, and user-focused web applications**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishrakhushboo27)  
-[![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9.svg?logo=mastodon&logoColor=white)](https://mastodon.social/@KhushbooRakeshMishra)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishra.khushboo27093@gmail.com)
 
 ---
