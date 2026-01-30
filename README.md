@@ -60,14 +60,6 @@ I am a **first-year M.Tech student in Software Engineering** with a strong inter
 ### 🔹 BOTDETECT
 - Machine Learning–based **Twitter bot detection system**
 - Includes sentiment analysis and **Explainable AI (SHAP/LIME)**
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mishra-khushboo&show_icons=true&theme=dark)
-
-
-
 ---
 
 ## 🌐 Connect With Me
