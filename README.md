@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Khushboo Mishra
 
 ## 💻 About Me
-I am a **first-year M.Tech student in Software Engineering** with a strong interest in **full-stack web development and database-driven applications**. I enjoy building scalable, real-world solutions and continuously improving my technical skill set.
+I am a **first-year M.Tech student in Software Engineering at VJTI** with a strong interest in **full-stack web development and database-driven applications**. I enjoy building scalable, real-world solutions and continuously improving my technical skill set.
 
 - 📍 Location: Mumbai, India  
 - 🎓 Education: B.E. in Information Technology  
