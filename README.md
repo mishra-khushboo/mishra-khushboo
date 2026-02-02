@@ -5,8 +5,8 @@ I am a **first-year M.Tech student in Software Engineering at VJTI** with a stro
 
 - 📍 Location: Mumbai, India  
 - 🎓 Education: B.E. in Information Technology  
-- 💡 Interests: React.js, Node.js, ASP.NET, SQL, Blockchain  
-- 🌱 Currently Learning: **MERN Stack, Advanced React, Cloud Deployment**
+- 💡 Interests: React.js, Node.js, ASP.NET, SQL  
+- 🌱 Currently Learning: **MERN Stack**
 
 ---
 
@@ -59,7 +59,7 @@ I am a **first-year M.Tech student in Software Engineering at VJTI** with a stro
 
 ### 🔹 BOTDETECT
 - Machine Learning–based **Twitter bot detection system**
-- Includes sentiment analysis and **Explainable AI (SHAP/LIME)**
+- Includes **Explainable AI (SHAP/LIME)**
 ---
 
 ## 🌐 Connect With Me
@@ -71,6 +71,6 @@ I am a **first-year M.Tech student in Software Engineering at VJTI** with a stro
 🎯 **Career Goals**
 - Contribute to **open-source projects**
 - Build **scalable, production-ready applications**
-- Gain expertise in **cloud & DevOps practices**
+- Gain expertise in **MERN Stack**
 
 [![](https://visitcount.itsvg.in/api?id=mishra-khushboo&icon=0&color=0)](https://visitcount.itsvg.in)
