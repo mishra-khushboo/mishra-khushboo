@@ -5,7 +5,7 @@ I am a **first-year M.Tech student in Software Engineering at VJTI** with a stro
 
 - 📍 Location: Mumbai, India  
 - 🎓 Education: B.E. in Information Technology  
-- 💡 Interests: React.js, Node.js, ASP.NET, SQL  
+- 💡 Interests: React.js, Node.js,.NET, SQL  
 - 🌱 Currently Learning: **MERN Stack**
 
 ---
