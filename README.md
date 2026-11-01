@@ -1,31 +1,40 @@
 # Khushboo Mishra
 
-M.Tech Software Engineering @ VJTI Mumbai · Building at the intersection of full-stack web and applied AI.
-
-## What I build
-
-- **GenAI applications** — RAG pipelines, LLM-grounded QA systems, embedding visualizations
-- **Deep learning systems** — dual-task neural networks, XAI with LIME & Grad-CAM, NLP with TinyBERT
-- **Full-stack web apps** — MERN stack, Node.js/Express, MongoDB, REST APIs
-
-## Featured projects
-
-| Project | What it does | Stack |
-|--------|-------------|-------|
-| [Swiggy RAG AI](https://github.com/mishra-khushboo/swiggy-rag-ai) | Ask questions directly from Swiggy's annual report — RAG pipeline with semantic search, citation highlighting, conversation memory | Python · LangChain · FAISS · Flan-T5 · Streamlit |
-| [BOTDETECT](https://github.com/mishra-khushboo/BOTDETECT-Twitter-Bot-Detection) | Twitter bot detection — 93.25% accuracy across 279k tweets using TinyBERT + DNN with AdaBelief optimizer and LIME explainability | PyTorch · TinyBERT · Optuna · LIME |
-| [MTech Leaf Disease](https://github.com/mishra-khushboo/MTech_Leaf_Disease) | Dual-task EfficientNet: simultaneous disease classification + severity regression (0–100%) with Grad-CAM explanations | PyTorch · EfficientNet-B0 · OpenCV · Grad-CAM |
-| [Veranda](https://github.com/mishra-khushboo/Veranda) | Airbnb-style village stay listing platform with full CRUD, RESTful routing, and server-side validation | Node.js · Express · MongoDB · EJS |
-
-## Skills
-
-`Python` `PyTorch` `TensorFlow` `LangChain` `RAG` `FAISS` `HuggingFace`  
-`React.js` `Node.js` `Express.js` `MongoDB` `MySQL` `REST APIs`  
-`Explainable AI` `NLP` `Computer Vision` `Optuna` `Streamlit`
+**I build RAG apps and explainable ML systems, and ship them with React and Node.**
+M.Tech Software Engineering @ VJTI Mumbai · GATE 2025 (Data Science & AI)
 
 ## Currently
 
-- M.Tech research: plant disease detection with interpretable deep learning
-- Open to: AI/ML Engineer · Full-Stack Developer · GenAI Application roles
+- Full-Stack AI Engineering Intern @ **Revvity**: Next.js, React, TypeScript
+- Final-year M.Tech research at VJTI <!-- TODO: add your actual topic here in a few words, or delete this line -->
+- Building a zero-budget tech news digest agent (Python, Ollama, SQLite)
+- Open to: AI/ML Engineer · GenAI Application Developer · Full-Stack Developer roles
+
+## What I build
+
+- **GenAI applications:** RAG pipelines, LLM-grounded QA systems, agents
+- **Deep learning systems:** dual-task neural networks, explainable AI (LIME, Grad-CAM), NLP with TinyBERT
+- **Full-stack web apps:** React / Next.js, Node.js / Express, MongoDB, REST APIs
+
+## Featured projects
+
+| Project | Outcome | Stack |
+|--------|---------|-------|
+| [Swiggy RAG AI](https://github.com/mishra-khushboo/swiggy-rag-ai) | Ask questions of Swiggy's annual report and get cited, highlighted answers | Python · LangChain · FAISS · Flan-T5 · Streamlit |
+| [BOTDETECT](https://github.com/mishra-khushboo/BOTDETECT-Twitter-Bot-Detection) | 93.25% accuracy detecting Twitter bots on 279k tweets, with LIME explanations | PyTorch · TinyBERT · Optuna · LIME |
+| [MTech Leaf Disease](https://github.com/mishra-khushboo/MTech_Leaf_Disease) | One model that classifies leaf disease and predicts severity (0–100%), explained with Grad-CAM | PyTorch · EfficientNet-B0 · OpenCV |
+| [Tech Digest Agent](https://github.com/mishra-khushboo/tech-digest-agent) | Pulls tech news from RSS, summarizes it with a local LLM, and builds an HTML email digest (in progress) | Python · Ollama · SQLite · feedparser |
+| [Veranda](https://github.com/mishra-khushboo/Veranda) | Airbnb-style village stay listings with full CRUD and server-side validation | Node.js · Express · MongoDB · EJS |
+
+<!-- TODO: add a screenshot or GIF of the Swiggy RAG UI here, e.g. ![Swiggy RAG demo](assets/swiggy-rag-demo.gif) -->
+
+## Skills
+
+`Python` `TypeScript` `JavaScript` `C++` `SQL`
+`PyTorch` `TensorFlow` `LangChain` `RAG` `FAISS` `HuggingFace` `Optuna` `Streamlit`
+`React` `Next.js` `Node.js` `Express` `MongoDB` `REST APIs` `Git`
+`Explainable AI` `NLP` `Computer Vision`
+
+## Reach me
 
 📍 Mumbai · [LinkedIn](https://www.linkedin.com/in/mishrakhushboo27) · mishra.khushboo27093@gmail.com
